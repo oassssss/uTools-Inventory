@@ -1,0 +1,16 @@
+{
+  "pluginName": "进销存管理",
+  "description": "我的第一个uTools插件",
+  "version": "0.0.1",
+  "main": "index.html",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "hello",
+      "explain": "进销存管理",
+      "cmds": [
+        "进销存"
+      ]
+    }
+  ]
+}
